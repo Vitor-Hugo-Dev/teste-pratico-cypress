@@ -1,0 +1,14 @@
+{
+  "name": "projeto-vortx",
+  "version": "1.0.0",
+  "description": "teste pratico da empresa vortx",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "vitor hugo da silva",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.0"
+  }
+}
